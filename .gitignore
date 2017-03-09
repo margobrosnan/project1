@@ -1,0 +1,13 @@
+# ignore gedit backup files
+*.*~
+
+# ignore Java files
+a.out
+
+# ignore C files
+*.class
+*.o
+
+#ignore private files
+private/ids.txt
+private/addresses.txt
